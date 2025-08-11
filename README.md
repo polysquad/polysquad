@@ -9,6 +9,6 @@
 
 <div id="header" align="center">
 
-#### ask on [ata](https://lufeng.atabook.org/) to be added⠀( ˃ ⩊ ˂)
+#### ask on [ata](https://lufeng.atabook.org/) to be added
 
 
